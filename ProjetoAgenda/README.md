@@ -20,15 +20,15 @@ A estrutura de pacotes e classes do projeto segue os princípios da Arquitetura 
 
 - `br.uece.listadetarefas.apresentacao.InterfaceUsuario.java`: Classe responsável pela interação com o usuário (GUI).
 
-- `br.uece.listadetarefas.negocio.ServicoTarefa.java`: Classe que implementa a lógica de negócios para a gestão de tarefas.
+- `br.uece.listadetarefas.negocio.ServicoTarefa.java`: Classe que implementa a lógica de negócios para a gestão de contatos.
 
-- `br.uece.listadetarefas.negocio.Tarefa.java`: Classe que representa o modelo de negócios "Tarefa".
+- `br.uece.listadetarefas.negocio.Tarefa.java`: Classe que representa o modelo de negócios "Contato".
 
 - `br.uece.listadetarefas.persistencia.ConexaoJdbcUtil.java`: Classe que lida com a conexão com o banco de dados.
 
-- `br.uece.listadetarefas.persistencia.RepositorioTarefa.java`: Interface que define operações para o repositório de tarefas.
+- `br.uece.listadetarefas.persistencia.RepositorioTarefa.java`: Interface que define operações para o repositório de contatos.
 
-- `br.uece.listadetarefas.persistencia.RepositorioTarefaJdbc.java`: Classe que implementa o repositório de tarefas usando JDBC.
+- `br.uece.listadetarefas.persistencia.RepositorioTarefaJdbc.java`: Classe que implementa o repositório de contatos usando JDBC.
 
 ## Como Utilizar o Projeto:
 
