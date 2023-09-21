@@ -102,7 +102,7 @@ Para criar a tabela no banco de dados SQLite `test.db` usando o DBAVER, siga est
 
 4. Execute o script SQL pressionando o botão "Executar" ou equivalente na interface do DBAVER.
 
-A tabela `Tarefa` será criada no banco de dados `test.db` com as colunas especificadas no script.
+A tabela `Contato` será criada no banco de dados `test.db` com as colunas especificadas no script.
 
 
 ## Contribuições:
